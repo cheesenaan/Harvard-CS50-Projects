@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: because the worst case is nlogn and the best case is nlogn
+
+sort2 uses: merge sort
+
+How do you know?: because it has the fastest run time
+
+
+sort3 uses: selection sort
+
+How do you know?: because the worst case is n^2 and the best case is n
